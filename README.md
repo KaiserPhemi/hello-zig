@@ -1,5 +1,5 @@
-# hello-zig
-Just a Hello World in Ziglang
+# zig-lang-template
+A template for developing in `Ziglang`
 
 ## Contributor(s)
 - Oluwafemi Akinwa
